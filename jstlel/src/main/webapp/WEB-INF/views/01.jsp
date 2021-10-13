@@ -7,7 +7,7 @@
 </head>
 <body>
 	<h4>값출력</h4>
-	${iVal } <br/>
+	${requestScope.iVal } <br/>
 	${lVal } <br/>
 	${fVal } <br/>
 	${bVal } <br/>
